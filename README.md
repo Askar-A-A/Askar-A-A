@@ -1,7 +1,7 @@
 Hi, my name is Askar.
 I am a web developer passionate about Python and its frameworks, especially Django and FastAPI. My experience includes a role at Versa Crop Company, where I specialized in web scraping, enhancing my data handling and automation skills. Currently, I'm focused on advancing as a backend engineer, aiming to build robust and scalable systems using my Python knowledge.
 
-My primary focus is web development with 🌐 Django
+My primary focus is web development with 🌐 Python
 
 Skills & Technologies:
 Programming Languages:
